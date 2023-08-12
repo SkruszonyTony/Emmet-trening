@@ -1,0 +1,23 @@
+p {
+	/* m10 */
+	margin: 10px;
+	/* p10 */
+	padding: 10px;
+	/* p10-10 */
+	padding: 10px 10px;
+	/* m10p */
+	margin: 10%;
+	/* bgc */
+	background-color: #fff;
+}
+
+span {
+	/* posf */
+	position: fixed;
+	/* posa */
+	position: absolute;
+	/* db */
+	display: block;
+	/* fwb */
+	font-weight: bold;
+}
